@@ -1,2 +1,2 @@
-# Transcri-o
+# Transcricao
 2MIA
